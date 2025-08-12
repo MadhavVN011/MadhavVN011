@@ -16,8 +16,9 @@
 ## 📬 Contact
 
 - ✉️ Email: [nairmadhav523@gmail.com](mailto:nairmadhav523@gmail.com)
+- 📞 Phone: 9876053167
 - 🏫 SRM Email: mn7430@srmist.edu.in
-- [GitHub](https://github.com/MadhavVN011) | [LinkedIn](#) | [LeetCode](#) | [X/Twitter](https://www.x.com/nair32595)
+- [GitHub](https://github.com/MadhavVN011) | [LinkedIn](https://www.linkedin.com/in/madhav-nair-272249254/) | [LeetCode](https://leetcode.com/u/MadhavNairLC/) | [X/Twitter](https://www.x.com/nair32595)
 
 ---
 
