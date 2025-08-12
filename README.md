@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://media4.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif" width="70"/> Tech Stack
 
 ### Frontend
 <p>
