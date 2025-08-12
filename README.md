@@ -75,13 +75,12 @@
 
 ## 📚 Certifications
 
-- **Intro to Artificial Intelligence** (Great Learning Academy)
+- **Artificial Intelligence** (Great Learning Academy)
 - **Data Structures in C** (Great Learning Academy)
 - **Cloud Computing** (Skill Vertex)
 - **Foundation of Cloud IoT Edge ML** (NPTEL)
 - **Cyber Security & Ethical Hacking** (IIT Roorkee)
 - **DBMS & MySQL** (Udemy)
-- **Basics of Python** (Infosys Springboard)
 - **Analysis for Algorithms** (TutorialsPoint)
 
 ---
