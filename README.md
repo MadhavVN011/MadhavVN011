@@ -80,27 +80,6 @@
 
 ---
 
-## 👑 Projects & Hackathons
-
-- ### [OrbitUs](#)
-  _Devfolio EthIndia 2024 Hackathon | Solidity, React.js, Next.js, Figma, TailwindCSS_  
-  Built a Web3 solution for decentralized networking and collaboration.
-
-- ### [BlockVerify](#)
-  _Unfold 2024 Hackathon | Solidity, CSS, JavaScript, HTML, Python_  
-  **Decentralized Employee Verification Platform:**  
-  NFT-based digital badging for global hiring, reducing costs, risks, and fraud. Employees control data access.
-
-- ### [Dvogue](#)
-  _Devfolio EthMumbai 2023 Hackathon | JavaScript_  
-  Elevate Your Style, Empower Your Choices: Welcome to Dvogue – Where Fashion Meets Freedom!
-
-- ### [HealthcareDL](#)
-  _Deep Learning | Python, Pandas, Numpy, Flask, Tensorflow_  
-  Healthcare predictions and analytics engine.
-
----
-
 ## 📚 Certifications
 
 - **Intro to Artificial Intelligence** (Great Learning Academy)
