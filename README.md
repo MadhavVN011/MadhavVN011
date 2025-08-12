@@ -19,6 +19,7 @@
 - 📞 Phone: 9876053167
 - 🏫 SRM Email: mn7430@srmist.edu.in
 - [GitHub](https://github.com/MadhavVN011) | [LinkedIn](https://www.linkedin.com/in/madhav-nair-272249254/) | [LeetCode](https://leetcode.com/u/MadhavNairLC/) | [X/Twitter](https://www.x.com/nair32595)
+- ![GitHub Views](https://komarev.com/ghpvc/?username=MadhavVN011&color=blue)
 
 ---
 
@@ -100,9 +101,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MadhavVN011&show_icons=true&theme=tokyonight" alt="Madhav's GitHub stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavVN011&theme=tokyonight" alt="Madhav's streak" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavVN011&layout=compact&theme=tokyonight" alt="languages" height="150"/>
-</p>
-<p align="center">
-  ![GitHub Views](https://komarev.com/ghpvc/?username=MadhavVN011&color=blue)
 </p>
 ---
 
