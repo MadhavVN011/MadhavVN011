@@ -101,7 +101,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavVN011&theme=tokyonight" alt="Madhav's streak" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavVN011&layout=compact&theme=tokyonight" alt="languages" height="150"/>
 </p>
-
+<p align="center">
+  ![GitHub Views](https://komarev.com/ghpvc/?username=MadhavVN011&color=blue)
+</p>
 ---
 
 ## 🏆 Achievements
