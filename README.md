@@ -15,7 +15,7 @@
 
 ## 📬 Contact
 
-- ✉️ Email: [pianomadhav@gmail.com](mailto:pianomadhav@gmail.com)
+- ✉️ Email: [nairmadhav523@gmail.com](mailto:nairmadhav523@gmail.com)
 - 🏫 SRM Email: mn7430@srmist.edu.in
 - [GitHub](https://github.com/MadhavVN011) | [LinkedIn](#) | [LeetCode](#) | [X/Twitter](https://www.x.com/nair32595)
 
