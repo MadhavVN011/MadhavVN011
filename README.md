@@ -102,8 +102,8 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MadhavVN011&show_icons=true&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MadhavVN011&theme=tokyonight)
+![Madhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadhavVN011&show_icons=true&theme=tokyonight)
+![Madhav's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=MadhavVN011&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavVN011&layout=compact&theme=tokyonight)
 
 ---
