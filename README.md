@@ -102,11 +102,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhavVN011&show_icons=true&theme=tokyonight" alt="Madhav's GitHub stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavVN011&theme=tokyonight" alt="Madhav's streak" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavVN011&layout=compact&theme=tokyonight" alt="languages" height="150"/>
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=MadhavVN011&show_icons=true&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MadhavVN011&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavVN011&layout=compact&theme=tokyonight)
+
 ---
 
 ## 🏆 Achievements
