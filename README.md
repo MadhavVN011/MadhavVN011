@@ -1,14 +1,14 @@
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Madhav Nair
 
-**Aspiring Software Engineer, Data Analyst, Backend Dev & Blockchain Dev | Innovator | Cloud Computing @ SRM IST, Chennai**
+**Software Engineer, Data Analyst, Backend Dev & Blockchain Dev | Innovator | SRM IST '26 Graduate**
 
 ---
 
 ## 🚀 About Me
 
-- 🌍 **Location:** Chennai, India
+- 🌍 **Location:** Mumbai, India
 - 🎯 Passionate about solving real-world problems at scale using data tools and software engineering
-- 🎓 B.Tech, CSE (Cloud Computing Specialization), SRM IST (2022–Present)
+- 🎓 B.Tech, CSE (Cloud Computing Specialization), SRM IST (2022–2026)
 - 🛠️ Enthusiastic about AI, blockchain, cloud, and building next-gen digital solutions
 
 ---
@@ -17,10 +17,8 @@
 
 - ✉️ Email: [nairmadhav523@gmail.com](mailto:nairmadhav523@gmail.com)
 - 📞 Phone: 9876053167
-- 🏫 SRM Email: mn7430@srmist.edu.in
 <p>
   <a href="https://www.linkedin.com/in/madhav-nair-272249254/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/MadhavNairLC/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://www.x.com/nair32595"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
@@ -102,9 +100,13 @@
 
 ## 📊 GitHub Stats
 
-![Madhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadhavVN011&show_icons=true&theme=tokyonight)
-![Madhav's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=MadhavVN011&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavVN011&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=MadhavVN011&show_icons=true&theme=tokyonight" alt="Madhav's GitHub stats" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MadhavVN011&layout=compact&theme=tokyonight" alt="Top languages" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavVN011&theme=tokyonight" alt="Madhav's GitHub streak" width="60%" />
+</p>
 
 ---
 
