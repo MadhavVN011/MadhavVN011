@@ -12,3 +12,4 @@ A small log to keep the contribution streak going.
 - 2026-11-10: checkpoint
 - 2026-11-10: small update
 - 2026-11-11: update 1
+- 2026-11-11: note
